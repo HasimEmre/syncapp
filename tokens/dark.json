@@ -40,23 +40,47 @@
         },
         "surface": {
           "surface": {
-            "value": "{SD.ref.palette.neutral.98}",
+            "value": "{SD.ref.palette.neutral.6}",
             "type": "color"
           },
           "surface-variant": {
-            "value": "{SD.ref.palette.neutral-variant.90}",
-            "type": "color"
-          },
-          "on-surface": {
-            "value": "{SD.ref.palette.neutral.10}",
-            "type": "color"
-          },
-          "on-surface-variant": {
             "value": "{SD.ref.palette.neutral-variant.30}",
             "type": "color"
           },
-          "surface-container-highest": {
+          "on-surface": {
             "value": "{SD.ref.palette.neutral.90}",
+            "type": "color"
+          },
+          "on-surface-variant": {
+            "value": "{SD.ref.palette.neutral-variant.80}",
+            "type": "color"
+          },
+          "surface-container-highest": {
+            "value": "{SD.ref.palette.neutral.22}",
+            "type": "color"
+          },
+          "surface-container-high": {
+            "value": "{SD.ref.palette.neutral.17}",
+            "type": "color"
+          },
+          "surface-container": {
+            "value": "{SD.ref.palette.neutral.12}",
+            "type": "color"
+          },
+          "surface-container-low": {
+            "value": "{SD.ref.palette.neutral.10}",
+            "type": "color"
+          },
+          "surface-container-lowest": {
+            "value": "{SD.ref.palette.neutral.4}",
+            "type": "color"
+          },
+          "inverse-surface": {
+            "value": "{SD.ref.palette.neutral.90}",
+            "type": "color"
+          },
+          "inverse-on-surface": {
+            "value": "{SD.ref.palette.neutral.20}",
             "type": "color"
           }
         }
