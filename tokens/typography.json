@@ -1,169 +1,5 @@
 {
   "SD": {
-    "ref": {
-      "fontfamily": {
-        "roboto": {
-          "value": "Roboto",
-          "type": "fontFamilies"
-        }
-      },
-      "lineHeights": {
-        "0": {
-          "value": "64",
-          "type": "lineHeights"
-        },
-        "1": {
-          "value": "52",
-          "type": "lineHeights"
-        },
-        "2": {
-          "value": "44",
-          "type": "lineHeights"
-        },
-        "3": {
-          "value": "40",
-          "type": "lineHeights"
-        },
-        "4": {
-          "value": "36",
-          "type": "lineHeights"
-        },
-        "5": {
-          "value": "32",
-          "type": "lineHeights"
-        },
-        "6": {
-          "value": "28",
-          "type": "lineHeights"
-        },
-        "7": {
-          "value": "24",
-          "type": "lineHeights"
-        },
-        "8": {
-          "value": "20",
-          "type": "lineHeights"
-        },
-        "9": {
-          "value": "16",
-          "type": "lineHeights"
-        }
-      },
-      "fontWeights": {
-        "roboto-0": {
-          "value": "Regular",
-          "type": "fontWeights"
-        },
-        "roboto-1": {
-          "value": "Medium",
-          "type": "fontWeights"
-        },
-        "roboto-2": {
-          "value": "Bold",
-          "type": "fontWeights"
-        }
-      },
-      "fontSize": {
-        "0": {
-          "value": "11",
-          "type": "fontSizes"
-        },
-        "1": {
-          "value": "12",
-          "type": "fontSizes"
-        },
-        "2": {
-          "value": "14",
-          "type": "fontSizes"
-        },
-        "3": {
-          "value": "16",
-          "type": "fontSizes"
-        },
-        "4": {
-          "value": "22",
-          "type": "fontSizes"
-        },
-        "5": {
-          "value": "24",
-          "type": "fontSizes"
-        },
-        "6": {
-          "value": "28",
-          "type": "fontSizes"
-        },
-        "7": {
-          "value": "32",
-          "type": "fontSizes"
-        },
-        "8": {
-          "value": "36",
-          "type": "fontSizes"
-        },
-        "9": {
-          "value": "45",
-          "type": "fontSizes"
-        },
-        "10": {
-          "value": "57",
-          "type": "fontSizes"
-        }
-      },
-      "letterSpacing": {
-        "0": {
-          "value": "0",
-          "type": "letterSpacing"
-        },
-        "1": {
-          "value": "0%",
-          "type": "letterSpacing"
-        },
-        "2": {
-          "value": "0.15",
-          "type": "letterSpacing"
-        },
-        "3": {
-          "value": "0.1",
-          "type": "letterSpacing"
-        },
-        "4": {
-          "value": "0.5",
-          "type": "letterSpacing"
-        },
-        "5": {
-          "value": "0.25",
-          "type": "letterSpacing"
-        },
-        "6": {
-          "value": "0.4",
-          "type": "letterSpacing"
-        }
-      },
-      "paragraphSpacing": {
-        "0": {
-          "value": "0",
-          "type": "paragraphSpacing"
-        }
-      },
-      "textCase": {
-        "none": {
-          "value": "none",
-          "type": "textCase"
-        }
-      },
-      "textDecoration": {
-        "none": {
-          "value": "none",
-          "type": "textDecoration"
-        }
-      },
-      "paragraphIndent": {
-        "0": {
-          "value": "0px",
-          "type": "dimension"
-        }
-      }
-    },
     "sys": {
       "typescale": {
         "display": {
@@ -171,8 +7,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.0}",
-              "fontSize": "{SD.ref.fontSize.10}",
+              "lineHeight": "{SD.ref.lineHeights.64}",
+              "fontSize": "{SD.ref.fontSize.57}",
               "letterSpacing": "{SD.ref.letterSpacing.0}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -185,8 +21,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.1}",
-              "fontSize": "{SD.ref.fontSize.9}",
+              "lineHeight": "{SD.ref.lineHeights.52}",
+              "fontSize": "{SD.ref.fontSize.45}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -199,8 +35,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.2}",
-              "fontSize": "{SD.ref.fontSize.8}",
+              "lineHeight": "{SD.ref.lineHeights.44}",
+              "fontSize": "{SD.ref.fontSize.36}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -215,8 +51,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.3}",
-              "fontSize": "{SD.ref.fontSize.7}",
+              "lineHeight": "{SD.ref.lineHeights.40}",
+              "fontSize": "{SD.ref.fontSize.32}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -229,8 +65,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.4}",
-              "fontSize": "{SD.ref.fontSize.6}",
+              "lineHeight": "{SD.ref.lineHeights.36}",
+              "fontSize": "{SD.ref.fontSize.28}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -243,8 +79,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.5}",
-              "fontSize": "{SD.ref.fontSize.5}",
+              "lineHeight": "{SD.ref.lineHeights.32}",
+              "fontSize": "{SD.ref.fontSize.24}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -259,8 +95,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.6}",
-              "fontSize": "{SD.ref.fontSize.4}",
+              "lineHeight": "{SD.ref.lineHeights.28}",
+              "fontSize": "{SD.ref.fontSize.22}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -273,8 +109,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.7}",
-              "fontSize": "{SD.ref.fontSize.3}",
+              "lineHeight": "{SD.ref.lineHeights.24}",
+              "fontSize": "{SD.ref.fontSize.16}",
               "letterSpacing": "{SD.ref.letterSpacing.2}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -287,8 +123,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
-              "lineHeight": "{SD.ref.lineHeights.8}",
-              "fontSize": "{SD.ref.fontSize.2}",
+              "lineHeight": "{SD.ref.lineHeights.20}",
+              "fontSize": "{SD.ref.fontSize.14}",
               "letterSpacing": "{SD.ref.letterSpacing.3}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -302,9 +138,9 @@
           "large": {
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-1}",
-              "lineHeight": "{SD.ref.lineHeights.8}",
-              "fontSize": "{SD.ref.fontSize.2}",
+              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "lineHeight": "{SD.ref.lineHeights.20}",
+              "fontSize": "{SD.ref.fontSize.14}",
               "letterSpacing": "{SD.ref.letterSpacing.3}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -316,9 +152,9 @@
           "medium": {
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-1}",
-              "lineHeight": "{SD.ref.lineHeights.9}",
-              "fontSize": "{SD.ref.fontSize.1}",
+              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "lineHeight": "{SD.ref.lineHeights.16}",
+              "fontSize": "{SD.ref.fontSize.12}",
               "letterSpacing": "{SD.ref.letterSpacing.4}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -330,9 +166,9 @@
           "small": {
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-1}",
-              "lineHeight": "{SD.ref.lineHeights.9}",
-              "fontSize": "{SD.ref.fontSize.0}",
+              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "lineHeight": "{SD.ref.lineHeights.16}",
+              "fontSize": "{SD.ref.fontSize.11}",
               "letterSpacing": "{SD.ref.letterSpacing.4}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -347,8 +183,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-0}",
-              "lineHeight": "{SD.ref.lineHeights.7}",
-              "fontSize": "{SD.ref.fontSize.3}",
+              "lineHeight": "{SD.ref.lineHeights.24}",
+              "fontSize": "{SD.ref.fontSize.16}",
               "letterSpacing": "{SD.ref.letterSpacing.4}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -361,8 +197,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-0}",
-              "lineHeight": "{SD.ref.lineHeights.8}",
-              "fontSize": "{SD.ref.fontSize.2}",
+              "lineHeight": "{SD.ref.lineHeights.20}",
+              "fontSize": "{SD.ref.fontSize.14}",
               "letterSpacing": "{SD.ref.letterSpacing.5}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
@@ -375,8 +211,8 @@
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-0}",
-              "lineHeight": "{SD.ref.lineHeights.9}",
-              "fontSize": "{SD.ref.fontSize.1}",
+              "lineHeight": "{SD.ref.lineHeights.16}",
+              "fontSize": "{SD.ref.fontSize.12}",
               "letterSpacing": "{SD.ref.letterSpacing.6}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",
