@@ -471,20 +471,40 @@
             "value": "#000000",
             "type": "color"
           },
+          "4": {
+            "value": "#0F0C0F",
+            "type": "color"
+          },
           "5": {
             "value": "#121012",
+            "type": "color"
+          },
+          "6": {
+            "value": "#171517",
             "type": "color"
           },
           "10": {
             "value": "#1d1b1c",
             "type": "color"
           },
+          "12": {
+            "value": "#222021",
+            "type": "color"
+          },
           "15": {
             "value": "#272527",
             "type": "color"
           },
+          "17": {
+            "value": "#2D2A2D",
+            "type": "color"
+          },
           "20": {
             "value": "#323031",
+            "type": "color"
+          },
+          "22": {
+            "value": "#373536",
             "type": "color"
           },
           "25": {
@@ -523,7 +543,19 @@
             "value": "#e7e1e3",
             "type": "color"
           },
+          "92": {
+            "value": "#e7e1e3",
+            "type": "color"
+          },
+          "94": {
+            "value": "#e7e1e3",
+            "type": "color"
+          },
           "95": {
+            "value": "#f6eff1",
+            "type": "color"
+          },
+          "96": {
             "value": "#f6eff1",
             "type": "color"
           },
