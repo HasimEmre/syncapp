@@ -3,12 +3,40 @@
     "sys": {
       "color": {
         "primary": {
-          "value": "{SD.ref.palette.primary.80}",
-          "type": "color"
+          "primary": {
+            "value": "{SD.ref.palette.primary.80}",
+            "type": "color"
+          },
+          "on-primary": {
+            "value": "{SD.ref.palette.primary.20}",
+            "type": "color"
+          },
+          "primary-container": {
+            "value": "{SD.ref.palette.primary.30}",
+            "type": "color"
+          },
+          "on-primary-container": {
+            "value": "{SD.ref.palette.primary.90}",
+            "type": "color"
+          }
         },
-        "on-primary": {
-          "value": "{SD.ref.palette.primary.20}",
-          "type": "color"
+        "secondary": {
+          "secondary": {
+            "value": "{SD.ref.palette.secondary.80}",
+            "type": "color"
+          },
+          "on-secondary": {
+            "value": "{SD.ref.palette.secondary.20}",
+            "type": "color"
+          },
+          "secondary-container": {
+            "value": "{SD.ref.palette.secondary.30}",
+            "type": "color"
+          },
+          "on-secondary-container": {
+            "value": "{SD.ref.palette.secondary.90}",
+            "type": "color"
+          }
         }
       }
     }
