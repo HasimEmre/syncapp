@@ -37,6 +37,28 @@
             "value": "{SD.ref.palette.secondary.90}",
             "type": "color"
           }
+        },
+        "surface": {
+          "surface": {
+            "value": "{SD.ref.palette.neutral.98}",
+            "type": "color"
+          },
+          "surface-variant": {
+            "value": "{SD.ref.palette.neutral-variant.90}",
+            "type": "color"
+          },
+          "on-surface": {
+            "value": "{SD.ref.palette.neutral.10}",
+            "type": "color"
+          },
+          "on-surface-variant": {
+            "value": "{SD.ref.palette.neutral-variant.30}",
+            "type": "color"
+          },
+          "surface-container-highest": {
+            "value": "{SD.ref.palette.neutral.90}",
+            "type": "color"
+          }
         }
       }
     }
