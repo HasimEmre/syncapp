@@ -83,6 +83,16 @@
             "value": "{SD.ref.palette.neutral.20}",
             "type": "color"
           }
+        },
+        "outline": {
+          "outline": {
+            "value": "{SD.ref.palette.neutral-variant.60}",
+            "type": "color"
+          },
+          "outline-variant": {
+            "value": "{SD.ref.palette.neutral-variant.30}",
+            "type": "color"
+          }
         }
       }
     }
