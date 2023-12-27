@@ -161,7 +161,7 @@
           "type": "sizing"
         }
       },
-      "color": {
+      "palette": {
         "black": {
           "value": "#000000",
           "type": "color"

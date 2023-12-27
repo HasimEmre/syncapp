@@ -1,0 +1,12 @@
+{
+  "SD": {
+    "sys": {
+      "color": {
+        "primary": {
+          "value": "{SD.ref.palette.primary.primary80}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
