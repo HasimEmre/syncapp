@@ -1,0 +1,18 @@
+{
+  "SD": {
+    "comp": {
+      "button": {
+        "32": {
+          "space-between": {
+            "value": "{SD.ref.spacing.8}",
+            "type": "spacing"
+          },
+          "height": {
+            "value": "{SD.ref.sizing.24}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

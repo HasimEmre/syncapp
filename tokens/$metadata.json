@@ -4,6 +4,7 @@
     "02_themes/dark",
     "02_themes/light",
     "03_semantic/typography",
-    "03_semantic/statelayer"
+    "03_semantic/statelayer",
+    "04_components/buttons"
   ]
 }
