@@ -43,7 +43,8 @@
     "selectedTokenSets": {
       "global": "source",
       "dark": "enabled",
-      "typography": "enabled"
+      "typography": "enabled",
+      "statelayer": "disabled"
     },
     "group": "theme"
   },
@@ -91,7 +92,8 @@
     "selectedTokenSets": {
       "global": "source",
       "light": "enabled",
-      "typography": "enabled"
+      "typography": "enabled",
+      "statelayer": "disabled"
     },
     "group": "theme"
   }

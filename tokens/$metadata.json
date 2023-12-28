@@ -3,6 +3,7 @@
     "global",
     "typography",
     "dark",
-    "light"
+    "light",
+    "statelayer"
   ]
 }
