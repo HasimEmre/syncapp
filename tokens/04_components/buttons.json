@@ -71,10 +71,8 @@
           }
         },
         "disabled": {
-          "opacity": {
-            "value": "{SD.ref.opacity.038}",
-            "type": "opacity"
-          }
+          "value": "{SD.ref.opacity.038}",
+          "type": "opacity"
         },
         "medium": {
           "space-between": {
@@ -128,11 +126,11 @@
             "type": "spacing"
           },
           "padding-right": {
-            "value": "{SD.ref.spacing.24}",
+            "value": "{SD.ref.spacing.32}",
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{SD.ref.spacing.24}",
+            "value": "{SD.ref.spacing.32}",
             "type": "spacing"
           }
         }
