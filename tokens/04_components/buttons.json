@@ -2,14 +2,78 @@
   "SD": {
     "comp": {
       "button": {
-        "32": {
+        "small": {
           "space-between": {
             "value": "{SD.ref.spacing.8}",
             "type": "spacing"
           },
-          "height": {
-            "value": "{SD.ref.sizing.24}",
+          "padding-top": {
+            "value": "{SD.ref.spacing.6}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{SD.ref.spacing.6}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{SD.ref.spacing.16}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{SD.ref.spacing.16}",
+            "type": "spacing"
+          },
+          "icon-frame-height": {
+            "value": "{SD.ref.sizing.18}",
             "type": "sizing"
+          },
+          "icon-frame-weight": {
+            "value": "{SD.ref.sizing.10}",
+            "type": "sizing"
+          }
+        },
+        "primary": {
+          "solid": {
+            "background": {
+              "color": {
+                "value": "{SD.sys.color.primary.primary}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "color": {
+                "value": "{SD.sys.color.primary.on-primary}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{SD.sys.color.surface.surface}",
+                "type": "color"
+              }
+            },
+            "state-layer": {
+              "hover": {
+                "value": "{SD.sys.statelayer.on-primary.hover}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{SD.sys.statelayer.on-primary.focus}",
+                "type": "color"
+              },
+              "press": {
+                "value": "{SD.sys.statelayer.on-primary.press}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{SD.sys.statelayer.surface.focus}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "disabled": {
+          "opacity": {
+            "value": "{SD.ref.opacity.038}",
+            "type": "opacity"
           }
         }
       }

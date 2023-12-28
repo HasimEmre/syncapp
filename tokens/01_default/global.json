@@ -836,6 +836,12 @@
           "value": "Bold",
           "type": "fontWeights"
         }
+      },
+      "opacity": {
+        "038": {
+          "value": "38%",
+          "type": "opacity"
+        }
       }
     }
   }
