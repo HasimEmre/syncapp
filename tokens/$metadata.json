@@ -5,6 +5,7 @@
     "02_themes/light",
     "03_semantic/typography",
     "03_semantic/statelayer",
-    "04_components/buttons"
+    "04_components/buttons",
+    "04_components/chatbubble"
   ]
 }

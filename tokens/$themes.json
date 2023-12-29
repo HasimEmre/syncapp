@@ -129,7 +129,8 @@
       "02_themes/dark": "enabled",
       "03_semantic/typography": "enabled",
       "03_semantic/statelayer": "enabled",
-      "04_components/buttons": "enabled"
+      "04_components/buttons": "enabled",
+      "04_components/chatbubble": "enabled"
     },
     "group": "theme"
   },
@@ -263,7 +264,8 @@
       "02_themes/light": "enabled",
       "03_semantic/typography": "enabled",
       "03_semantic/statelayer": "enabled",
-      "04_components/buttons": "enabled"
+      "04_components/buttons": "enabled",
+      "04_components/chatbubble": "enabled"
     },
     "group": "theme"
   }
