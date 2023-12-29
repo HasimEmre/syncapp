@@ -68,6 +68,42 @@
                 "type": "color"
               }
             }
+          },
+          "outlined": {
+            "outline": {
+              "color": {
+                "value": "{SD.sys.color.outline.outline}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "color": {
+                "value": "{SD.sys.color.primary.primary}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{SD.sys.color.surface.on-surface}",
+                "type": "color"
+              }
+            },
+            "state-layer": {
+              "hover": {
+                "value": "{SD.sys.statelayer.primary.hover}",
+                "type": "color"
+              },
+              "focus": {
+                "value": "{SD.sys.statelayer.primary.focus}",
+                "type": "color"
+              },
+              "press": {
+                "value": "{SD.sys.statelayer.primary.press}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{SD.sys.statelayer.on-surface.focus}",
+                "type": "color"
+              }
+            }
           }
         },
         "disabled": {
@@ -133,6 +169,10 @@
             "value": "{SD.ref.spacing.32}",
             "type": "spacing"
           }
+        },
+        "radius": {
+          "value": "{SD.ref.radii.border-radius-32}",
+          "type": "borderRadius"
         }
       }
     }
