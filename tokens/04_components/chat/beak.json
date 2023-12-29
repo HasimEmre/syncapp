@@ -1,1 +1,20 @@
-{}
+{
+  "SD": {
+    "comp": {
+      "beak": {
+        "right": {
+          "color": {
+            "value": "{SD.sys.color.primary.on-primary-fixed-variant}",
+            "type": "color"
+          }
+        },
+        "left": {
+          "color": {
+            "value": "{SD.sys.color.surface.surface-container-highest}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

@@ -136,7 +136,9 @@
       "03_semantic/typography": "enabled",
       "03_semantic/statelayer": "enabled",
       "04_components/buttons": "enabled",
-      "04_components/chat/beak": "enabled"
+      "04_components/chat/beak": "enabled",
+      "04_components/chat/bubble": "enabled",
+      "04_components/chat/conversation": "enabled"
     },
     "group": "theme"
   },
@@ -285,7 +287,9 @@
       "03_semantic/typography": "enabled",
       "03_semantic/statelayer": "enabled",
       "04_components/buttons": "enabled",
-      "04_components/chat/beak": "enabled"
+      "04_components/chat/beak": "enabled",
+      "04_components/chat/bubble": "enabled",
+      "04_components/chat/conversation": "enabled"
     },
     "group": "theme"
   }

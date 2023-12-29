@@ -1,1 +1,80 @@
-{}
+{
+  "SD": {
+    "comp": {
+      "chat-bubble": {
+        "space-between": {
+          "value": "{SD.ref.spacing.none}",
+          "type": "spacing"
+        },
+        "padding-top": {
+          "value": "{SD.ref.spacing.8}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{SD.ref.spacing.8}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{SD.ref.spacing.8}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{SD.ref.spacing.8}",
+          "type": "spacing"
+        },
+        "outer-padding-right": {
+          "value": "{SD.ref.spacing.4}",
+          "type": "spacing"
+        },
+        "outer-padding-left": {
+          "value": "{SD.ref.spacing.4}",
+          "type": "spacing"
+        },
+        "corner-radius": {
+          "radius": {
+            "value": "{SD.ref.radii.border-radius-4}",
+            "type": "borderRadius"
+          },
+          "corner": {
+            "value": "{SD.ref.radii.border-radius-none}",
+            "type": "borderRadius"
+          }
+        },
+        "label-text": {
+          "font": {
+            "value": "{SD.sys.typescale.body.small}",
+            "type": "typography"
+          }
+        },
+        "primary": {
+          "background": {
+            "color": {
+              "value": "{SD.sys.color.primary.on-primary-fixed-variant}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "color": {
+              "value": "{SD.sys.color.primary.primary-fixed}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "background": {
+            "color": {
+              "value": "{SD.sys.color.surface.surface-container-highest}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "color": {
+              "value": "{SD.sys.color.surface.on-surface}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

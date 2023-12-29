@@ -56,6 +56,10 @@
         }
       },
       "fontSize": {
+        "8": {
+          "value": "8",
+          "type": "fontSizes"
+        },
         "11": {
           "value": "11",
           "type": "fontSizes"
@@ -102,6 +106,10 @@
         }
       },
       "lineHeights": {
+        "14": {
+          "value": "14",
+          "type": "lineHeights"
+        },
         "16": {
           "value": "16",
           "type": "lineHeights"
@@ -146,6 +154,10 @@
       "radii": {
         "border-radius-2": {
           "value": "2",
+          "type": "borderRadius"
+        },
+        "border-radius-none": {
+          "value": "0",
           "type": "borderRadius"
         },
         "border-radius-4": {

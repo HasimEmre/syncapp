@@ -176,6 +176,20 @@
               "textDecoration": "{SD.ref.textDecoration.none}"
             },
             "type": "typography"
+          },
+          "x-small": {
+            "value": {
+              "fontFamily": "{SD.ref.fontfamily.roboto}",
+              "fontWeight": "{SD.ref.fontWeights.roboto-0}",
+              "lineHeight": "{SD.ref.lineHeights.14}",
+              "fontSize": "{SD.ref.fontSize.8}",
+              "letterSpacing": "{SD.ref.letterSpacing.0}",
+              "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
+              "paragraphIndent": "{SD.ref.paragraphIndent.0}",
+              "textCase": "{SD.ref.textCase.none}",
+              "textDecoration": "{SD.ref.textDecoration.none}"
+            },
+            "type": "typography"
           }
         },
         "body": {

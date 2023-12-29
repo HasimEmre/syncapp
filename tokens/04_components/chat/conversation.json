@@ -1,1 +1,26 @@
-{}
+{
+  "SD": {
+    "comp": {
+      "conversation": {
+        "helper-text": {
+          "font": {
+            "value": "{SD.sys.typescale.label.x-small}",
+            "type": "typography"
+          },
+          "color": {
+            "value": "{SD.sys.color.surface.on-surface-variant}",
+            "type": "color"
+          }
+        },
+        "outer-space-between": {
+          "value": "{SD.ref.spacing.none}",
+          "type": "spacing"
+        },
+        "space-between": {
+          "value": "{SD.ref.spacing.4}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}
