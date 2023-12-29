@@ -104,11 +104,13 @@
                 "type": "color"
               }
             }
+          },
+          "label-text": {
+            "font": {
+              "value": "{SD.sys.typescale.label.large}",
+              "type": "typography"
+            }
           }
-        },
-        "disabled": {
-          "value": "{SD.ref.opacity.038}",
-          "type": "opacity"
         },
         "medium": {
           "space-between": {
@@ -173,6 +175,18 @@
         "radius": {
           "value": "{SD.ref.radii.border-radius-32}",
           "type": "borderRadius"
+        },
+        "disabled": {
+          "opacity": {
+            "value": "{SD.ref.opacity.038}",
+            "type": "opacity"
+          }
+        },
+        "outlined": {
+          "border": {
+            "value": "{SD.ref.width.borderwidth-1}",
+            "type": "borderWidth"
+          }
         }
       }
     }
