@@ -115,7 +115,14 @@
       "SD.sys.color.error.error": "S:4a473e24f049b2811ae184271ca2154c21da699a,",
       "SD.sys.color.error.on-error": "S:ef9db24f5fb2548069264f6386a978f7c4a1dd2b,",
       "SD.sys.color.error.error-container": "S:52d318b40408ce3833480ab09663bd97a569a89f,",
-      "SD.sys.color.error.on-error-container": "S:c71a7819ae319d163c5f14cbb658ca847a214ee3,"
+      "SD.sys.color.error.on-error-container": "S:c71a7819ae319d163c5f14cbb658ca847a214ee3,",
+      "SD.comp.button.primary.outlined.outline.color": "S:db5b3eec7c000646ee43ceb05c17b42fedcc23b0,",
+      "SD.comp.button.primary.outlined.foreground.color": "S:e7098dc6de51e98ae595dcfcedd0e9d77ad393b9,",
+      "SD.comp.button.primary.outlined.foreground.disabled": "S:8b8c9995034728cd4477db037b67c85b1049a1c1,",
+      "SD.comp.button.primary.outlined.state-layer.hover": "S:c40fd8a9d54c4ff5aa30a15c37b51052f66d9903,",
+      "SD.comp.button.primary.outlined.state-layer.focus": "S:32b354c573b90e9a371016cb181ea0e8ad3ad06d,",
+      "SD.comp.button.primary.outlined.state-layer.press": "S:1599ba638338c7d4224ce86965cbad36b5643e75,",
+      "SD.comp.button.primary.outlined.state-layer.disabled": "S:af8a15e9acee5ef07e272e0d74d30cf76cf6911a,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
@@ -242,7 +249,14 @@
       "SD.sys.color.error.error": "S:1feba052eaf21bca11ed91c89443671149164f61,",
       "SD.sys.color.error.on-error": "S:ba82662a03388524517c3a9fb991b662d1499a09,",
       "SD.sys.color.error.error-container": "S:48f3cd7ba10c4a084cf3d68a0ea84fed076c30a1,",
-      "SD.sys.color.error.on-error-container": "S:24eba3fabd15bfd063ce4da57bbe237454322a04,"
+      "SD.sys.color.error.on-error-container": "S:24eba3fabd15bfd063ce4da57bbe237454322a04,",
+      "SD.comp.button.primary.outlined.outline.color": "S:67216564925ca3a4ced01a9685c93b367ea49d0a,",
+      "SD.comp.button.primary.outlined.foreground.color": "S:4c681e08e76037d8e490a6a9c80adc8654ce5b7b,",
+      "SD.comp.button.primary.outlined.foreground.disabled": "S:542d5960c001e3f1ce7699537c633e6ce2f7b882,",
+      "SD.comp.button.primary.outlined.state-layer.hover": "S:2b4f5923193dcdad6cefdb888c2ae38e8b754719,",
+      "SD.comp.button.primary.outlined.state-layer.focus": "S:4e18dd2f735d58262f925ba70b19f37374423205,",
+      "SD.comp.button.primary.outlined.state-layer.press": "S:af259132e49ade076ca31e82d90d4c2026525b94,",
+      "SD.comp.button.primary.outlined.state-layer.disabled": "S:0a988f78506ab683470f798d57f5acef26be02f6,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
