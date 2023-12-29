@@ -6,6 +6,8 @@
     "03_semantic/typography",
     "03_semantic/statelayer",
     "04_components/buttons",
-    "04_components/chatbubble"
+    "04_components/chat/beak",
+    "04_components/chat/bubble",
+    "04_components/chat/conversation"
   ]
 }
