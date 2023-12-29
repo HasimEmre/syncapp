@@ -18,6 +18,22 @@
           "on-primary-container": {
             "value": "{SD.ref.palette.primary.10}",
             "type": "color"
+          },
+          "on-primary-fixed-variant": {
+            "value": "{SD.ref.palette.primary.30}",
+            "type": "color"
+          },
+          "on-primary-fixed": {
+            "value": "{SD.ref.palette.primary.10}",
+            "type": "color"
+          },
+          "primary-fixed-dim": {
+            "value": "{SD.ref.palette.primary.80}",
+            "type": "color"
+          },
+          "primary-fixed": {
+            "value": "{SD.ref.palette.primary.90}",
+            "type": "color"
           }
         },
         "secondary": {
@@ -35,6 +51,22 @@
           },
           "on-secondary-container": {
             "value": "{SD.ref.palette.secondary.10}",
+            "type": "color"
+          },
+          "on-secondary-fixed-variant": {
+            "value": "{SD.ref.palette.secondary.30}",
+            "type": "color"
+          },
+          "on-secondary-fixed": {
+            "value": "{SD.ref.palette.secondary.10}",
+            "type": "color"
+          },
+          "secondary-fixed-dim": {
+            "value": "{SD.ref.palette.secondary.80}",
+            "type": "color"
+          },
+          "secondary-fixed": {
+            "value": "{SD.ref.palette.secondary.90}",
             "type": "color"
           }
         },

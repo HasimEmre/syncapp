@@ -122,7 +122,13 @@
       "SD.comp.button.primary.outlined.state-layer.hover": "S:c40fd8a9d54c4ff5aa30a15c37b51052f66d9903,",
       "SD.comp.button.primary.outlined.state-layer.focus": "S:32b354c573b90e9a371016cb181ea0e8ad3ad06d,",
       "SD.comp.button.primary.outlined.state-layer.press": "S:1599ba638338c7d4224ce86965cbad36b5643e75,",
-      "SD.comp.button.primary.outlined.state-layer.disabled": "S:af8a15e9acee5ef07e272e0d74d30cf76cf6911a,"
+      "SD.comp.button.primary.outlined.state-layer.disabled": "S:af8a15e9acee5ef07e272e0d74d30cf76cf6911a,",
+      "SD.comp.button.primary.ghost.foreground.color": "S:149bca76792b82a8bc9a73ee470de473c024cedf,",
+      "SD.comp.button.primary.ghost.foreground.disabled": "S:d75ad9cfa10fa357cb7b1fef29389dd22d0e25f5,",
+      "SD.comp.button.primary.ghost.state-layer.hover": "S:c3fc05cec2c38bef3348a4c2eed914d6ff8743d5,",
+      "SD.comp.button.primary.ghost.state-layer.focus": "S:56b1f10dcde858e7001572afad619152ed07782d,",
+      "SD.comp.button.primary.ghost.state-layer.press": "S:ea7440c42ba534db4a3b7de10ff44e271398a96d,",
+      "SD.comp.button.primary.ghost.state-layer.disabled": "S:608385d08a346a821c38a4b2f73f647eff9f10af,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
@@ -257,7 +263,21 @@
       "SD.comp.button.primary.outlined.state-layer.hover": "S:2b4f5923193dcdad6cefdb888c2ae38e8b754719,",
       "SD.comp.button.primary.outlined.state-layer.focus": "S:4e18dd2f735d58262f925ba70b19f37374423205,",
       "SD.comp.button.primary.outlined.state-layer.press": "S:af259132e49ade076ca31e82d90d4c2026525b94,",
-      "SD.comp.button.primary.outlined.state-layer.disabled": "S:0a988f78506ab683470f798d57f5acef26be02f6,"
+      "SD.comp.button.primary.outlined.state-layer.disabled": "S:0a988f78506ab683470f798d57f5acef26be02f6,",
+      "SD.comp.button.primary.ghost.foreground.color": "S:7e09774d704c1562f119ad3cae605b78701060fb,",
+      "SD.comp.button.primary.ghost.foreground.disabled": "S:ad0bb9baeddd39dfb8e1fd53bddbddb2bdae5c12,",
+      "SD.comp.button.primary.ghost.state-layer.hover": "S:3b9d8577e2485321fb57357c75c4ed5a91ca8158,",
+      "SD.comp.button.primary.ghost.state-layer.focus": "S:6d97136cd54380ab15739af053d25a1f90a05a24,",
+      "SD.comp.button.primary.ghost.state-layer.press": "S:c918c0f6da282ae511cb016c38968a4587aa2bf0,",
+      "SD.comp.button.primary.ghost.state-layer.disabled": "S:ef28d93d6e338b577311234509149075e9fbc4b9,",
+      "SD.sys.color.primary.on-primary-fixed-variant": "S:2ee51f4fe26644c44e085e77f92caf7a13eed53a,",
+      "SD.sys.color.primary.on-primary-fixed": "S:fa87e8d62168ca621ebc8e11293d52582f71ba52,",
+      "SD.sys.color.primary.primary-fixed-dim": "S:c063ab39b062eeda6f2ba2101e120bd11e917f43,",
+      "SD.sys.color.primary.primary-fixed": "S:c7f768b0ddf06c0ad44a7f82c9995ad93e7e171e,",
+      "SD.sys.color.secondary.on-secondary-fixed-variant": "S:307abd1844cc85e39e90b17914e3d2c1745ff2a0,",
+      "SD.sys.color.secondary.on-secondary-fixed": "S:75f903f978c6b492a336c4b284409ddee34dc866,",
+      "SD.sys.color.secondary.secondary-fixed-dim": "S:1a0692016f9c2bba7e1b72315035d7ccff7e0ded,",
+      "SD.sys.color.secondary.secondary-fixed": "S:dbaf4c3c6ea23cb68962ba05761dfad82b696e1c,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
