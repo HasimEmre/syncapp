@@ -183,7 +183,7 @@
           }
         },
         "outlined": {
-          "border": {
+          "borderwidth": {
             "value": "{SD.ref.width.borderwidth-1}",
             "type": "borderWidth"
           }
