@@ -157,7 +157,8 @@
       "04_components/buttons": "enabled",
       "04_components/chat/beak": "enabled",
       "04_components/chat/bubble": "enabled",
-      "04_components/chat/conversation": "enabled"
+      "04_components/chat/conversation": "enabled",
+      "04_components/text-fields": "enabled"
     },
     "group": "theme"
   },
@@ -319,7 +320,8 @@
       "04_components/buttons": "enabled",
       "04_components/chat/beak": "enabled",
       "04_components/chat/bubble": "enabled",
-      "04_components/chat/conversation": "enabled"
+      "04_components/chat/conversation": "enabled",
+      "04_components/text-fields": "enabled"
     },
     "group": "theme"
   }

@@ -1,0 +1,56 @@
+{
+  "SD": {
+    "comp": {
+      "text-field": {
+        "small": {
+          "padding-top": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{SD.ref.spacing.12}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{SD.ref.spacing.12}",
+            "type": "spacing"
+          },
+          "space-between": {
+            "value": "{SD.ref.spacing.8}",
+            "type": "spacing"
+          },
+          "font": {
+            "value": "{SD.sys.typescale.body.small}",
+            "type": "typography"
+          }
+        },
+        "background": {
+          "color": {
+            "value": "{SD.sys.color.surface.surface-container-highest}",
+            "type": "color"
+          }
+        },
+        "foreground": {
+          "color": {
+            "value": "{SD.sys.color.surface.on-surface}",
+            "type": "color"
+          }
+        },
+        "outline": {
+          "color": {
+            "value": "{SD.sys.color.outline.outline-variant}",
+            "type": "color"
+          }
+        },
+        "radius": {
+          "value": "{SD.ref.radii.border-radius-32}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}

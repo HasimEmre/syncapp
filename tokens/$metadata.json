@@ -8,6 +8,7 @@
     "04_components/buttons",
     "04_components/chat/beak",
     "04_components/chat/bubble",
-    "04_components/chat/conversation"
+    "04_components/chat/conversation",
+    "04_components/text-fields"
   ]
 }
