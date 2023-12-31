@@ -26,6 +26,14 @@
           "font": {
             "value": "{SD.sys.typescale.body.small}",
             "type": "typography"
+          },
+          "icon-frame-height": {
+            "value": "{SD.ref.sizing.24}",
+            "type": "sizing"
+          },
+          "icon-frame-width": {
+            "value": "{SD.ref.sizing.16}",
+            "type": "sizing"
           }
         },
         "background": {

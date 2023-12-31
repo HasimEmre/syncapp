@@ -297,6 +297,24 @@
             "value": "{SD.ref.spacing.12}",
             "type": "spacing"
           }
+        },
+        "x-small": {
+          "padding-top": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          }
         }
       }
     }
