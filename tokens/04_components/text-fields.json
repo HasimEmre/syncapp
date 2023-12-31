@@ -31,6 +31,10 @@
             "value": "{SD.ref.sizing.24}",
             "type": "sizing"
           },
+          "content-frame-height": {
+            "value": "{SD.ref.sizing.24}",
+            "type": "sizing"
+          },
           "icon-frame-width": {
             "value": "{SD.ref.sizing.16}",
             "type": "sizing"
@@ -122,6 +126,82 @@
           "outline": {
             "color": {
               "value": "{SD.sys.color.outline.outline-variant}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "background": {
+            "color": {
+              "value": "{SD.sys.color.surface.surface-container-lowest}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "color": {
+              "value": "{SD.sys.color.surface.on-surface}",
+              "type": "color"
+            }
+          },
+          "outline": {
+            "color": {
+              "value": "{SD.sys.color.error.on-error}",
+              "type": "color"
+            }
+          }
+        },
+        "disabled": {
+          "opacity": {
+            "value": "{SD.ref.opacity.038}",
+            "type": "opacity"
+          },
+          "background": {
+            "color": {
+              "value": "{SD.sys.color.surface.surface-container-lowest}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "color": {
+              "value": "{SD.sys.color.surface.surface-variant}",
+              "type": "color"
+            }
+          },
+          "outline": {
+            "color": {
+              "value": "{SD.sys.color.outline.outline-variant}",
+              "type": "color"
+            }
+          },
+          "state-layer": {
+            "color": {
+              "value": "{SD.sys.statelayer.on-surface.focus}",
+              "type": "color"
+            }
+          }
+        },
+        "disabled-filled": {
+          "background": {
+            "color": {
+              "value": "{SD.sys.color.surface.surface-container-lowest}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "color": {
+              "value": "{SD.sys.color.surface.on-surface}",
+              "type": "color"
+            }
+          },
+          "outline": {
+            "color": {
+              "value": "{SD.sys.color.outline.outline-variant}",
+              "type": "color"
+            }
+          },
+          "state-layer": {
+            "color": {
+              "value": "{SD.sys.statelayer.on-surface.focus}",
               "type": "color"
             }
           }
