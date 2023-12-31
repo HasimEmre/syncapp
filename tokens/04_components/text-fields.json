@@ -42,9 +42,9 @@
             "type": "color"
           }
         },
-        "foreground": {
+        "foreground-default": {
           "color": {
-            "value": "{SD.sys.color.surface.on-surface}",
+            "value": "{SD.sys.color.surface.surface-variant}",
             "type": "color"
           }
         },
@@ -69,6 +69,12 @@
           },
           "focus": {
             "value": "{SD.sys.statelayer.on-surface.focus}",
+            "type": "color"
+          }
+        },
+        "foreground-active": {
+          "color": {
+            "value": "{SD.sys.color.surface.on-surface}",
             "type": "color"
           }
         }
