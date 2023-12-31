@@ -145,7 +145,7 @@
           },
           "outline": {
             "color": {
-              "value": "{SD.sys.color.error.on-error}",
+              "value": "{SD.sys.color.error.error-container}",
               "type": "color"
             }
           }
