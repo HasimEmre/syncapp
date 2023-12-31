@@ -52,7 +52,15 @@
         },
         "state-layer": {
           "hover": {
-            "value": "{SD.sys.color.outline.outline-variant}",
+            "value": "{SD.sys.statelayer.on-surface.hover}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{SD.sys.statelayer.on-surface.press}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{SD.sys.statelayer.on-surface.focus}",
             "type": "color"
           }
         }
