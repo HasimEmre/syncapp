@@ -49,7 +49,7 @@
           },
           "foreground": {
             "color": {
-              "value": "{SD.sys.color.surface.surface-variant}",
+              "value": "{SD.sys.color.surface.on-surface-variant}",
               "type": "color"
             }
           },
@@ -73,7 +73,7 @@
           },
           "foreground": {
             "color": {
-              "value": "{SD.sys.color.surface.surface-variant}",
+              "value": "{SD.sys.color.surface.on-surface-variant}",
               "type": "color"
             }
           },
@@ -163,7 +163,7 @@
           },
           "foreground": {
             "color": {
-              "value": "{SD.sys.color.surface.surface-variant}",
+              "value": "{SD.sys.color.surface.on-surface-variant}",
               "type": "color"
             }
           },
@@ -204,6 +204,32 @@
               "value": "{SD.sys.statelayer.on-surface.focus}",
               "type": "color"
             }
+          }
+        },
+        "medium": {
+          "font": {
+            "value": "{SD.sys.typescale.body.large}",
+            "type": "typography"
+          },
+          "padding-top": {
+            "value": "{SD.ref.spacing.12}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{SD.ref.spacing.12}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{SD.ref.spacing.16}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{SD.ref.spacing.16}",
+            "type": "spacing"
+          },
+          "space-between": {
+            "value": "{SD.ref.spacing.8}",
+            "type": "spacing"
           }
         }
       }
