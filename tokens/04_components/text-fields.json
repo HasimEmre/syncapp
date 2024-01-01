@@ -220,11 +220,11 @@
             "type": "spacing"
           },
           "padding-right": {
-            "value": "{SD.ref.spacing.16}",
+            "value": "{SD.ref.spacing.20}",
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{SD.ref.spacing.16}",
+            "value": "{SD.ref.spacing.20}",
             "type": "spacing"
           },
           "space-between": {
