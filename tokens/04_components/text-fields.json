@@ -208,23 +208,23 @@
         },
         "medium": {
           "font": {
-            "value": "{SD.sys.typescale.body.large}",
+            "value": "{SD.sys.typescale.body.medium}",
             "type": "typography"
           },
           "padding-top": {
-            "value": "{SD.ref.spacing.12}",
+            "value": "{SD.ref.spacing.6}",
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{SD.ref.spacing.12}",
+            "value": "{SD.ref.spacing.6}",
             "type": "spacing"
           },
           "padding-right": {
-            "value": "{SD.ref.spacing.20}",
+            "value": "{SD.ref.spacing.16}",
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{SD.ref.spacing.20}",
+            "value": "{SD.ref.spacing.16}",
             "type": "spacing"
           },
           "space-between": {
