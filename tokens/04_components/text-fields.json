@@ -151,6 +151,12 @@
           }
         },
         "disabled": {
+          "foreground": {
+            "color": {
+              "value": "{SD.sys.color.surface.on-surface-variant}",
+              "type": "color"
+            }
+          },
           "opacity": {
             "value": "{SD.ref.opacity.038}",
             "type": "opacity"
@@ -158,12 +164,6 @@
           "background": {
             "color": {
               "value": "{SD.sys.color.surface.surface-container-lowest}",
-              "type": "color"
-            }
-          },
-          "foreground": {
-            "color": {
-              "value": "{SD.sys.color.surface.on-surface-variant}",
               "type": "color"
             }
           },
