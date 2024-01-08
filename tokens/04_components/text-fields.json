@@ -284,6 +284,32 @@
           "value": "{SD.ref.width.borderwidth-1}",
           "type": "borderWidth"
         }
+      },
+      "input-field": {
+        "radius": {
+          "value": "{SD.ref.radii.border-radius-4}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "label": {
+            "font": {
+              "value": "{SD.sys.typescale.label.large}",
+              "type": "typography"
+            }
+          },
+          "helper": {
+            "font": {
+              "value": "{SD.sys.typescale.body.medium}",
+              "type": "typography"
+            }
+          },
+          "input": {
+            "font": {
+              "value": "{SD.sys.typescale.body.large}",
+              "type": "typography"
+            }
+          }
+        }
       }
     }
   }
