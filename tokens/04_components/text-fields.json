@@ -308,6 +308,30 @@
               "value": "{SD.sys.typescale.body.large}",
               "type": "typography"
             }
+          },
+          "space-between-vertical": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "space-between-horizontal": {
+            "value": "{SD.ref.spacing.8}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{SD.ref.spacing.10}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{SD.ref.spacing.10}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{SD.ref.spacing.20}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{SD.ref.spacing.20}",
+            "type": "spacing"
           }
         }
       }
