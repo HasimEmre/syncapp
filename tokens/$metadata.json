@@ -9,6 +9,7 @@
     "04_components/chat/beak",
     "04_components/chat/bubble",
     "04_components/chat/conversation",
-    "04_components/text-fields"
+    "04_components/text-fields",
+    "04_components/Chips"
   ]
 }
