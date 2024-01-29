@@ -37,32 +37,68 @@
           "type": "sizing"
         },
         "filter-chips": {
-          "background": {
-            "color": {
-              "value": "{SD.sys.color.surface.surface-container-lowest}",
-              "type": "color"
-            }
-          },
-          "foreground": {
-            "color": {
-              "value": "{SD.sys.color.surface.on-surface}",
-              "type": "color"
+          "default": {
+            "background": {
+              "color": {
+                "value": "{SD.sys.color.surface.surface-container-lowest}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "color": {
+                "value": "{SD.sys.color.surface.on-surface}",
+                "type": "color"
+              }
+            },
+            "outline": {
+              "color": {
+                "value": "{SD.sys.color.surface.surface-container-highest}",
+                "type": "color"
+              }
+            },
+            "state-layer": {
+              "hover": {
+                "value": "{SD.sys.statelayer.on-surface-variant.hover}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{SD.sys.statelayer.on-surface-variant.focus}",
+                "type": "color"
+              }
             }
           },
           "radius": {
             "value": "{SD.ref.radii.border-radius-24}",
             "type": "borderRadius"
           },
-          "outline": {
-            "color": {
-              "value": "{SD.sys.color.surface.surface-container-highest}",
-              "type": "color"
-            }
-          },
-          "state-layer": {
-            "hover": {
-              "value": "{SD.sys.statelayer.primary.hover}",
-              "type": "color"
+          "active": {
+            "background": {
+              "color": {
+                "value": "{SD.sys.color.surface.on-surface}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "color": {
+                "value": "{SD.sys.color.surface.surface-container-lowest}",
+                "type": "color"
+              }
+            },
+            "outline": {
+              "color": {
+                "value": "{SD.sys.color.surface.on-surface}",
+                "type": "color"
+              }
+            },
+            "state-layer": {
+              "hover": {
+                "value": "{SD.sys.statelayer.surface.hover}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{SD.sys.statelayer.surface.focus}",
+                "type": "color"
+              }
             }
           }
         },
