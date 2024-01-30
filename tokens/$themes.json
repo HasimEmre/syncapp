@@ -406,16 +406,16 @@
       "SD.sys.statelayer.surface-container-lowest.focus": "S:d6edf6258fd994d1f4ac492dc40ebd8f0300589f,",
       "SD.sys.statelayer.surface-container-lowest.press": "S:f08f93fb9523ddaf03dc6348a22f9b44ff8b38c0,",
       "SD.sys.statelayer.surface-container-lowest.drag": "S:617a50d144cb0659655a3a2ba281f538f558a2d8,",
-      "SD.sys.color.gradient.gradient": "S:1a447f7476c06680f31985d714f70ff913daa7ab,",
-      "SD.sys.color.gradient.on-gradient": "S:e808816350b122fa5ba6ede7c268894cd482e519,",
-      "SD.sys.color.gradient.error-container": "S:bea8851408c984af9b4cbd7873ea8cb9b59e0bf5,",
-      "SD.sys.color.gradient.on-error-container": "S:7dad0eb74881f6189f63c08a21e3dd2506d2b89c,",
       "SD.comp.text-field.small.font": "S:6cefea685aeedf9ff34119672b12f1cefd29785c,",
       "SD.comp.text-field.medium.font": "S:9b249484b8613ceb687cc5171413f635d249296a,",
       "SD.comp.text-field.large.font": "S:9aab270c62b90816b35cc85a27d30a791f36b555,",
       "SD.comp.input-field.medium.label.font": "S:285ddf82461c5631b556ef24c7a8b068da5ca750,",
       "SD.comp.input-field.medium.helper.font": "S:cb4f3e95b546de9dc72f954a0b9011aa0296d18a,",
-      "SD.comp.input-field.medium.input.font": "S:3f56bddc9cf8fe935cc8ab2f87c8b3beb776d6bd,"
+      "SD.comp.input-field.medium.input.font": "S:3f56bddc9cf8fe935cc8ab2f87c8b3beb776d6bd,",
+      "SD.sys.color.gradient.action": "S:1a447f7476c06680f31985d714f70ff913daa7ab,",
+      "SD.sys.color.gradient.on-action": "S:e808816350b122fa5ba6ede7c268894cd482e519,",
+      "SD.sys.color.gradient.surface": "S:bea8851408c984af9b4cbd7873ea8cb9b59e0bf5,",
+      "SD.sys.color.gradient.on-surface": "S:7dad0eb74881f6189f63c08a21e3dd2506d2b89c,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",

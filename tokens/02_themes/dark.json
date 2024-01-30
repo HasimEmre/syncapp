@@ -153,37 +153,19 @@
           }
         },
         "gradient": {
-          "gradient": {
+          "action": {
             "value": "linear-gradient(45deg, #8159E4 100%, #5A23E0 0%)",
             "type": "color"
           },
-          "on-gradient": {
+          "on-action": {
             "value": "{SD.ref.palette.primary.100}",
             "type": "color"
           },
-          "error-container": {
-            "value": "{SD.ref.palette.error.30}",
+          "surface": {
+            "value": "linear-gradient(180deg, {SD.sys.color.surface.surface-container-low} 100%, {SD.sys.color.surface.surface-container-highest} 50%, {SD.sys.color.surface.surface-container-low} 0%)",
             "type": "color"
           },
-          "on-error-container": {
-            "value": "{SD.ref.palette.error.90}",
-            "type": "color"
-          }
-        },
-        "gradient-surface": {
-          "gradient": {
-            "value": "linear-gradient(45deg, #8159E4 100%, #5A23E0 0%)",
-            "type": "color"
-          },
-          "on-gradient": {
-            "value": "{SD.ref.palette.primary.100}",
-            "type": "color"
-          },
-          "error-container": {
-            "value": "{SD.ref.palette.error.30}",
-            "type": "color"
-          },
-          "on-error-container": {
+          "on-surface": {
             "value": "{SD.ref.palette.error.90}",
             "type": "color"
           }
