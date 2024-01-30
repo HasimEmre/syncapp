@@ -197,7 +197,21 @@
       "SD.comp.text-field.large.font": "S:9433aa7df0832a842d80d7eb382ac81b2cf40bdc,",
       "SD.comp.input-field.medium.label.font": "S:67341961e0c847b46e5a8cfee8b9c643519ec132,",
       "SD.comp.input-field.medium.helper.font": "S:8b83643133b91152150cf07478f86f39d630af87,",
-      "SD.comp.input-field.medium.input.font": "S:9089dc959e3640bee2154dfca11fa9c18dc50a1c,"
+      "SD.comp.input-field.medium.input.font": "S:9089dc959e3640bee2154dfca11fa9c18dc50a1c,",
+      "SD.comp.chips.filter-chips.default.background.color": "S:77fdbdc30edafb54fa63a0bb14a40a2dc05c4e9a,",
+      "SD.comp.chips.filter-chips.default.foreground.color": "S:0d2cdb33460afba8300b1cd88cf76d249a573115,",
+      "SD.comp.chips.filter-chips.default.outline.color": "S:2d8145d4ee99ac9c35e3a54a61458d987acbb2fd,",
+      "SD.comp.chips.filter-chips.default.state-layer.hover": "S:766bc10efef6a8d4ad12aaaf82bbd979cd61d380,",
+      "SD.comp.chips.filter-chips.default.state-layer.active": "S:ceb1319386bc2a3efef6296e5c4139c46c220771,",
+      "SD.comp.chips.filter-chips.active.background.color": "S:b00b541e2a13b52c18b3b86adeca64e42094e783,",
+      "SD.comp.chips.filter-chips.active.foreground.color": "S:128158029fca66f76be52ec81857ee6a81ece234,",
+      "SD.comp.chips.filter-chips.active.outline.color": "S:0ac8c9c1aabdb4a4ec924f4bb2beb769972fede8,",
+      "SD.comp.chips.filter-chips.active.state-layer.hover": "S:852b0e948a61708f1cd317f116fea26dbe807ff8,",
+      "SD.comp.chips.filter-chips.active.state-layer.active": "S:0e159639da836a743990f6911d991c430989f9af,",
+      "SD.sys.color.gradient.action": "S:072e2960557c7c1b7614fb4fde6e889010c41c85,",
+      "SD.sys.color.gradient.on-action": "S:69dd02fafe6507d279fcb793d7efe6b0bf3d5441,",
+      "SD.sys.color.gradient.surface": "S:b4b9c139e39eaf85ca8fdb322ed817d40db20035,",
+      "SD.sys.color.gradient.on-surface": "S:e739ee6ac0e22697ffd5518727058e2bda22ef6e,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
@@ -415,7 +429,18 @@
       "SD.sys.color.gradient.action": "S:1a447f7476c06680f31985d714f70ff913daa7ab,",
       "SD.sys.color.gradient.on-action": "S:e808816350b122fa5ba6ede7c268894cd482e519,",
       "SD.sys.color.gradient.surface": "S:bea8851408c984af9b4cbd7873ea8cb9b59e0bf5,",
-      "SD.sys.color.gradient.on-surface": "S:7dad0eb74881f6189f63c08a21e3dd2506d2b89c,"
+      "SD.sys.color.gradient.on-surface": "S:7dad0eb74881f6189f63c08a21e3dd2506d2b89c,",
+      "SD.comp.chips.filter-chips.default.background.color": "S:0d86180ddacf28cabbd7dbf736992ea6427fe501,",
+      "SD.comp.chips.filter-chips.default.foreground.color": "S:098aabe42bbb0487452ae94e873625c3e66c8f49,",
+      "SD.comp.chips.filter-chips.default.outline.color": "S:6882f41c813cddaf4a2a74d9a403791954714be3,",
+      "SD.comp.chips.filter-chips.default.state-layer.hover": "S:5c4c51478038ec6cd83039c91bd3c67d8d0b3b42,",
+      "SD.comp.chips.filter-chips.default.state-layer.active": "S:cb49b06baeb1d978b46e8ebd71ea1ab6dc64f6d8,",
+      "SD.comp.chips.filter-chips.active.background.color": "S:207252103630a78a0dccfbb280e18e90a0228106,",
+      "SD.comp.chips.filter-chips.active.foreground.color": "S:47bdf5a808c46029e75d72f247419c0b149c3cc0,",
+      "SD.comp.chips.filter-chips.active.outline.color": "S:101f2de6bea230ba2c41238c2417bf6236224ffe,",
+      "SD.comp.chips.filter-chips.active.state-layer.hover": "S:77c6259f7c68990990544d2372ea12b80b845ff8,",
+      "SD.comp.chips.filter-chips.active.state-layer.active": "S:def2846da0b5cda8e0b8283f253c5383a743f62c,",
+      "SD.comp.chips.typography.font": "S:7a745d87c35faaf128f2353661ddb1f0881a1f81,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
