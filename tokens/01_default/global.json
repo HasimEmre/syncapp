@@ -850,8 +850,16 @@
         }
       },
       "opacity": {
+        "100": {
+          "value": "100%",
+          "type": "opacity"
+        },
         "038": {
           "value": "38%",
+          "type": "opacity"
+        },
+        "00": {
+          "value": "0%",
           "type": "opacity"
         }
       }

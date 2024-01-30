@@ -1,0 +1,46 @@
+{
+  "SD": {
+    "comp": {
+      "tabs": {
+        "label-text": {
+          "font": {
+            "value": "{SD.sys.typescale.label.large}",
+            "type": "typography"
+          }
+        },
+        "active": {
+          "color": {
+            "value": "{SD.sys.color.primary.primary}",
+            "type": "color"
+          },
+          "opacity": {
+            "value": "{SD.ref.opacity.100}",
+            "type": "opacity"
+          },
+          "radius": {
+            "value": "{SD.ref.radii.border-radius-2}",
+            "type": "borderRadius"
+          }
+        },
+        "space-between": {
+          "value": "{SD.ref.spacing.8}",
+          "type": "spacing"
+        },
+        "padding-top": {
+          "value": "{SD.ref.spacing.2}",
+          "type": "spacing"
+        },
+        "default": {
+          "opacity": {
+            "value": "{SD.ref.opacity.00}",
+            "type": "opacity"
+          },
+          "color": {
+            "value": "{SD.sys.color.surface.surface-container-highest}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
