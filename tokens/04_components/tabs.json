@@ -40,7 +40,7 @@
             "type": "opacity"
           },
           "color": {
-            "value": "{SD.sys.color.surface.surface-variant}",
+            "value": "{SD.sys.color.surface.on-surface-variant}",
             "type": "color"
           }
         }
