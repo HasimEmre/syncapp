@@ -166,7 +166,7 @@
             "type": "color"
           },
           "on-surface": {
-            "value": "{SD.ref.palette.error.90}",
+            "value": "{SD.sys.color.surface.on-surface}",
             "type": "color"
           }
         }
