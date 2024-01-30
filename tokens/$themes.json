@@ -211,7 +211,8 @@
       "SD.sys.color.gradient.action": "S:072e2960557c7c1b7614fb4fde6e889010c41c85,",
       "SD.sys.color.gradient.on-action": "S:69dd02fafe6507d279fcb793d7efe6b0bf3d5441,",
       "SD.sys.color.gradient.surface": "S:b4b9c139e39eaf85ca8fdb322ed817d40db20035,",
-      "SD.sys.color.gradient.on-surface": "S:e739ee6ac0e22697ffd5518727058e2bda22ef6e,"
+      "SD.sys.color.gradient.on-surface": "S:e739ee6ac0e22697ffd5518727058e2bda22ef6e,",
+      "SD.comp.chips.typography.font": "S:eccc305d3ff20f975e632e6ad258b77efc4d95fa,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",

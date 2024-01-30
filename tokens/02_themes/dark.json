@@ -162,7 +162,7 @@
             "type": "color"
           },
           "surface": {
-            "value": "linear-gradient(180deg, {SD.sys.color.surface.surface-container-lowest} 100%, {SD.sys.color.surface.surface-container} 50%, {SD.sys.color.surface.surface-container-lowest} 0%)",
+            "value": "linear-gradient(180deg, {SD.sys.color.surface.surface-container-lowest} 100%, {SD.sys.color.surface.surface-container-highest} 50%, {SD.sys.color.surface.surface-container-lowest} 0%)",
             "type": "color"
           },
           "on-surface": {
