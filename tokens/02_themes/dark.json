@@ -116,7 +116,7 @@
             "type": "color"
           },
           "inverse-surface": {
-            "value": "{SD.ref.palette.neutral.90}",
+            "value": "{SD.ref.palette.neutral.100}",
             "type": "color"
           },
           "inverse-on-surface": {

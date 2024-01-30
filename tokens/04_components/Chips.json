@@ -74,7 +74,7 @@
           "active": {
             "background": {
               "color": {
-                "value": "{SD.sys.color.surface.on-surface}",
+                "value": "{SD.sys.color.surface.inverse-surface}",
                 "type": "color"
               }
             },
