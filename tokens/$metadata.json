@@ -11,6 +11,7 @@
     "04_components/chat/conversation",
     "04_components/text-fields",
     "04_components/Chips",
-    "04_components/tabs"
+    "04_components/tabs",
+    "04_components/tabs/primary"
   ]
 }
