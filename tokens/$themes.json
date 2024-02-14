@@ -226,7 +226,8 @@
       "04_components/text-fields": "enabled",
       "04_components/Chips": "enabled",
       "04_components/tabs": "enabled",
-      "04_components/tabs/primary": "enabled"
+      "04_components/tabs/primary": "enabled",
+      "04_components/tabs/secondary": "enabled"
     },
     "group": "theme"
   },
@@ -457,7 +458,8 @@
       "04_components/text-fields": "enabled",
       "04_components/Chips": "enabled",
       "04_components/tabs": "enabled",
-      "04_components/tabs/primary": "enabled"
+      "04_components/tabs/primary": "enabled",
+      "04_components/tabs/secondary": "enabled"
     },
     "group": "theme"
   }
