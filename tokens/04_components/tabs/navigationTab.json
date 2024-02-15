@@ -7,6 +7,10 @@
             "color": {
               "value": "{SD.sys.color.surface.on-surface}",
               "type": "color"
+            },
+            "border": {
+              "value": "{SD.ref.width.borderwidth-1}",
+              "type": "borderWidth"
             }
           },
           "padding-top": {
@@ -21,6 +25,10 @@
             "color": {
               "value": "{SD.sys.color.outline.outline}",
               "type": "color"
+            },
+            "border": {
+              "value": "{SD.ref.width.borderwidth-none}",
+              "type": "borderWidth"
             }
           }
         }
