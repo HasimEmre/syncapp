@@ -5,7 +5,7 @@
         "navigationTab": {
           "active": {
             "color": {
-              "value": "{SD.sys.color.surface.surface-container-lowest}",
+              "value": "{SD.sys.color.surface.on-surface}",
               "type": "color"
             }
           },
@@ -19,7 +19,7 @@
           },
           "default": {
             "color": {
-              "value": "{SD.sys.color.surface.on-surface-variant}",
+              "value": "{SD.sys.color.outline.outline}",
               "type": "color"
             }
           }
