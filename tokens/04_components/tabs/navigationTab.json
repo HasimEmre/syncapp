@@ -1,0 +1,30 @@
+{
+  "SD": {
+    "comp": {
+      "tabs": {
+        "navigationTab": {
+          "active": {
+            "color": {
+              "value": "{SD.sys.color.surface.surface-container-lowest}",
+              "type": "color"
+            }
+          },
+          "padding-top": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          },
+          "default": {
+            "color": {
+              "value": "{SD.sys.color.surface.on-surface-variant}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

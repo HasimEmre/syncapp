@@ -227,7 +227,8 @@
       "04_components/Chips": "enabled",
       "04_components/tabs": "enabled",
       "04_components/tabs/primary": "enabled",
-      "04_components/tabs/secondary": "enabled"
+      "04_components/tabs/secondary": "enabled",
+      "04_components/tabs/navigationTab": "enabled"
     },
     "group": "theme"
   },
@@ -459,7 +460,8 @@
       "04_components/Chips": "enabled",
       "04_components/tabs": "enabled",
       "04_components/tabs/primary": "enabled",
-      "04_components/tabs/secondary": "enabled"
+      "04_components/tabs/secondary": "enabled",
+      "04_components/tabs/navigationTab": "enabled"
     },
     "group": "theme"
   }
