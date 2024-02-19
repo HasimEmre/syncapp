@@ -1,0 +1,28 @@
+{
+  "SD": {
+    "block": {
+      "comp": {
+        "finder": {
+          "userinfo": {
+            "label": {
+              "font": {
+                "value": "{SD.sys.typescale.label.large}",
+                "type": "typography"
+              }
+            },
+            "space-between": {
+              "value": "{SD.ref.spacing.10}",
+              "type": "spacing"
+            },
+            "label-icon": {
+              "color": {
+                "value": "{SD.sys.color.surface.on-surface}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

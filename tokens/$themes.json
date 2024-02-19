@@ -228,7 +228,9 @@
       "04_components/tabs/secondary": "enabled",
       "04_components/tabs/navigationTab": "enabled",
       "04_components/newmatch": "enabled",
-      "04_components/tabs/primary": "enabled"
+      "04_components/tabs/primary": "enabled",
+      "05_blocks/Finder/elements": "enabled",
+      "05_blocks/Finder/block": "enabled"
     },
     "group": "theme"
   },
@@ -461,7 +463,9 @@
       "04_components/tabs/secondary": "enabled",
       "04_components/tabs/navigationTab": "enabled",
       "04_components/newmatch": "enabled",
-      "04_components/tabs/primary": "enabled"
+      "04_components/tabs/primary": "enabled",
+      "05_blocks/Finder/elements": "enabled",
+      "05_blocks/Finder/block": "enabled"
     },
     "group": "theme"
   }
