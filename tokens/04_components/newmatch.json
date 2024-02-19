@@ -10,10 +10,30 @@
           "font": {
             "value": "{SD.sys.typescale.label.large}",
             "type": "typography"
-          },
+          }
+        },
+        "label-icon": {
           "spacing": {
             "value": "{SD.ref.spacing.8}",
             "type": "spacing"
+          }
+        },
+        "label-image": {
+          "spacing": {
+            "value": "{SD.ref.spacing.4}",
+            "type": "spacing"
+          }
+        },
+        "label": {
+          "color": {
+            "value": "{SD.ref.palette.neutral.0}",
+            "type": "color"
+          }
+        },
+        "empty": {
+          "color": {
+            "value": "{SD.ref.palette.neutral-variant.98}",
+            "type": "color"
           }
         }
       }
