@@ -225,11 +225,10 @@
       "04_components/chat/conversation": "enabled",
       "04_components/text-fields": "enabled",
       "04_components/Chips": "enabled",
-      "04_components/tabs": "enabled",
-      "04_components/tabs/primary": "enabled",
       "04_components/tabs/secondary": "enabled",
       "04_components/tabs/navigationTab": "enabled",
-      "04_components/newmatch": "enabled"
+      "04_components/newmatch": "enabled",
+      "04_components/tabs/primary": "enabled"
     },
     "group": "theme"
   },
@@ -459,11 +458,10 @@
       "04_components/chat/conversation": "enabled",
       "04_components/text-fields": "enabled",
       "04_components/Chips": "enabled",
-      "04_components/tabs": "enabled",
-      "04_components/tabs/primary": "enabled",
       "04_components/tabs/secondary": "enabled",
       "04_components/tabs/navigationTab": "enabled",
-      "04_components/newmatch": "enabled"
+      "04_components/newmatch": "enabled",
+      "04_components/tabs/primary": "enabled"
     },
     "group": "theme"
   }
