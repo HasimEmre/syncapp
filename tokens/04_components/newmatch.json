@@ -1,0 +1,22 @@
+{
+  "SD": {
+    "comp": {
+      "newmatch": {
+        "radius": {
+          "value": "{SD.ref.radii.border-radius-4}",
+          "type": "borderRadius"
+        },
+        "label-text": {
+          "font": {
+            "value": "{SD.sys.typescale.label.large}",
+            "type": "typography"
+          },
+          "spacing": {
+            "value": "{SD.ref.spacing.8}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}
