@@ -91,12 +91,26 @@
           }
         },
         "title": {
-          "large": {
+          "x-large": {
             "value": {
               "fontFamily": "{SD.ref.fontfamily.roboto}",
               "fontWeight": "{SD.ref.fontWeights.roboto-2}",
               "lineHeight": "{SD.ref.lineHeights.28}",
               "fontSize": "{SD.ref.fontSize.22}",
+              "letterSpacing": "{SD.ref.letterSpacing.1}",
+              "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
+              "paragraphIndent": "{SD.ref.paragraphIndent.0}",
+              "textCase": "{SD.ref.textCase.none}",
+              "textDecoration": "{SD.ref.textDecoration.none}"
+            },
+            "type": "typography"
+          },
+          "large": {
+            "value": {
+              "fontFamily": "{SD.ref.fontfamily.roboto}",
+              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "lineHeight": "{SD.ref.lineHeights.28}",
+              "fontSize": "{SD.ref.fontSize.20}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
               "paragraphSpacing": "{SD.ref.paragraphSpacing.0}",
               "paragraphIndent": "{SD.ref.paragraphIndent.0}",

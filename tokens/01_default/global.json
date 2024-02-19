@@ -76,6 +76,10 @@
           "value": "16",
           "type": "fontSizes"
         },
+        "20": {
+          "value": "20",
+          "type": "fontSizes"
+        },
         "22": {
           "value": "22",
           "type": "fontSizes"

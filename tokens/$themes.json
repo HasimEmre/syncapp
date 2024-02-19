@@ -9,7 +9,6 @@
       "SD.sys.typescale.headline.large": "S:ebfa829f4afe7884bb9cc63da7e389577229ad1d,",
       "SD.sys.typescale.headline.medium": "S:be91ec74e71f3e435f15fbde1f21b31dff9960ee,",
       "SD.sys.typescale.headline.small": "S:83e6ed06a07e89449bad2a6c6568eebfe4f2d147,",
-      "SD.sys.typescale.title.large": "S:0b8f684e08a6fcbb14ad6d20365211782c0716b7,",
       "SD.sys.typescale.title.medium": "S:bc61f12d7f30fa6eafc4a3c275ca80ec654e6965,",
       "SD.sys.typescale.title.small": "S:17a5ad953f4ab04417efc57aeba38af30e9a662d,",
       "SD.sys.typescale.label.large": "S:f23d9d9fa61e466dc3d92339e3cd50a0e4b6241a,",
@@ -212,7 +211,8 @@
       "SD.sys.color.gradient.on-action": "S:69dd02fafe6507d279fcb793d7efe6b0bf3d5441,",
       "SD.sys.color.gradient.surface": "S:b4b9c139e39eaf85ca8fdb322ed817d40db20035,",
       "SD.sys.color.gradient.on-surface": "S:e739ee6ac0e22697ffd5518727058e2bda22ef6e,",
-      "SD.comp.chips.typography.font": "S:eccc305d3ff20f975e632e6ad258b77efc4d95fa,"
+      "SD.comp.chips.typography.font": "S:eccc305d3ff20f975e632e6ad258b77efc4d95fa,",
+      "SD.sys.typescale.title.x-large": "S:0b8f684e08a6fcbb14ad6d20365211782c0716b7,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
@@ -265,7 +265,6 @@
       "SD.sys.typescale.headline.large": "S:8c0c1d8ac6489121cff4cc7608c682f21227eaa7,",
       "SD.sys.typescale.headline.medium": "S:5b321345e4b46be27c60691b635d1e8fc9971902,",
       "SD.sys.typescale.headline.small": "S:fdd25e85ddcb4c843bbf737c7ee7f558b4fcd249,",
-      "SD.sys.typescale.title.large": "S:4155354d5903d802d6dc0d67b42bf996ce35cc0c,",
       "SD.sys.typescale.title.medium": "S:2c3a9efcdf1c79192a0d599cab75a1caa2d9bbc6,",
       "SD.sys.typescale.title.small": "S:33d86f94df3ef464b0b0a55f10e30da38bc2e837,",
       "SD.sys.typescale.label.large": "S:ca31f3b23c2c630ebf6ce0fee68e222665bcdc75,",
@@ -447,7 +446,8 @@
       "SD.comp.chips.filter-chips.active.outline.color": "S:101f2de6bea230ba2c41238c2417bf6236224ffe,",
       "SD.comp.chips.filter-chips.active.state-layer.hover": "S:77c6259f7c68990990544d2372ea12b80b845ff8,",
       "SD.comp.chips.filter-chips.active.state-layer.active": "S:def2846da0b5cda8e0b8283f253c5383a743f62c,",
-      "SD.comp.chips.typography.font": "S:7a745d87c35faaf128f2353661ddb1f0881a1f81,"
+      "SD.comp.chips.typography.font": "S:7a745d87c35faaf128f2353661ddb1f0881a1f81,",
+      "SD.sys.typescale.title.x-large": "S:4155354d5903d802d6dc0d67b42bf996ce35cc0c,"
     },
     "selectedTokenSets": {
       "01_default/global": "source",
