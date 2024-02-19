@@ -6,6 +6,10 @@
           "value": "{SD.ref.spacing.12}",
           "type": "spacing"
         },
+        "space-between-xsmall": {
+          "value": "{SD.ref.spacing.4}",
+          "type": "spacing"
+        },
         "space-between-medium": {
           "value": "{SD.ref.spacing.16}",
           "type": "spacing"
