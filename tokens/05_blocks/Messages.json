@@ -1,1 +1,14 @@
-{}
+{
+  "SD": {
+    "block": {
+      "messages": {
+        "title": {
+          "font": {
+            "value": "{SD.sys.typescale.title.medium}",
+            "type": "typography"
+          }
+        }
+      }
+    }
+  }
+}
