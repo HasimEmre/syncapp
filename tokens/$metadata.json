@@ -17,6 +17,7 @@
     "04_components/newmatch",
     "04_components/newmessage",
     "05_blocks/Finder/elements",
-    "05_blocks/Finder/block"
+    "05_blocks/Finder/block",
+    "05_blocks/Messages"
   ]
 }

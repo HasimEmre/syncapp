@@ -231,7 +231,8 @@
       "04_components/tabs/primary": "enabled",
       "05_blocks/Finder/elements": "enabled",
       "05_blocks/Finder/block": "enabled",
-      "04_components/newmessage": "enabled"
+      "04_components/newmessage": "enabled",
+      "05_blocks/Messages": "enabled"
     },
     "group": "theme"
   },
@@ -467,7 +468,8 @@
       "04_components/tabs/primary": "enabled",
       "05_blocks/Finder/elements": "enabled",
       "05_blocks/Finder/block": "enabled",
-      "04_components/newmessage": "enabled"
+      "04_components/newmessage": "enabled",
+      "05_blocks/Messages": "enabled"
     },
     "group": "theme"
   }
