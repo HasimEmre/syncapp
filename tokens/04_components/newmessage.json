@@ -10,6 +10,10 @@
           "space-between": {
             "value": "{SD.ref.spacing.12}",
             "type": "spacing"
+          },
+          "color": {
+            "value": "{SD.sys.color.surface.on-surface}",
+            "type": "color"
           }
         },
         "body": {
@@ -18,8 +22,12 @@
             "type": "typography"
           },
           "space-between": {
-            "value": "{SD.ref.spacing.2}",
+            "value": "{SD.ref.spacing.4}",
             "type": "spacing"
+          },
+          "color": {
+            "value": "{SD.sys.color.surface.on-surface-variant}",
+            "type": "color"
           }
         },
         "content": {
@@ -27,6 +35,10 @@
             "value": "{SD.ref.spacing.2}",
             "type": "spacing"
           }
+        },
+        "space-between": {
+          "value": "{SD.ref.spacing.16}",
+          "type": "spacing"
         }
       }
     }
