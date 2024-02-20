@@ -6,6 +6,28 @@
           "font": {
             "value": "{SD.sys.typescale.title.medium}",
             "type": "typography"
+          },
+          "space-between": {
+            "value": "{SD.ref.spacing.12}",
+            "type": "spacing"
+          }
+        },
+        "new-matches": {
+          "space-between": {
+            "value": "{SD.ref.spacing.16}",
+            "type": "spacing"
+          }
+        },
+        "messages": {
+          "space-between": {
+            "value": "{SD.ref.spacing.8}",
+            "type": "spacing"
+          }
+        },
+        "body": {
+          "space-between": {
+            "value": "{SD.ref.spacing.32}",
+            "type": "spacing"
           }
         }
       }
