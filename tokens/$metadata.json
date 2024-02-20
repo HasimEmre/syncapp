@@ -15,6 +15,7 @@
     "04_components/tabs/secondary",
     "04_components/tabs/navigationTab",
     "04_components/newmatch",
+    "04_components/newmessage",
     "05_blocks/Finder/elements",
     "05_blocks/Finder/block"
   ]

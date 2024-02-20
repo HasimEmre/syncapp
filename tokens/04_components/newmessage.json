@@ -1,0 +1,34 @@
+{
+  "SD": {
+    "comp": {
+      "new-message": {
+        "title": {
+          "font": {
+            "value": "{SD.sys.typescale.title.large}",
+            "type": "typography"
+          },
+          "space-between": {
+            "value": "{SD.ref.spacing.12}",
+            "type": "spacing"
+          }
+        },
+        "body": {
+          "font": {
+            "value": "{SD.sys.typescale.body.large}",
+            "type": "typography"
+          },
+          "space-between": {
+            "value": "{SD.ref.spacing.2}",
+            "type": "spacing"
+          }
+        },
+        "content": {
+          "space-between": {
+            "value": "{SD.ref.spacing.2}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}
