@@ -49,6 +49,10 @@
             "value": "{SD.sys.typescale.body.medium}",
             "type": "typography"
           }
+        },
+        "radius": {
+          "value": "{SD.ref.radii.border-radius-8}",
+          "type": "borderRadius"
         }
       }
     }
