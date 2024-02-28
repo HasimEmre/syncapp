@@ -103,6 +103,12 @@
                 "value": "{SD.sys.statelayer.on-surface.focus}",
                 "type": "color"
               }
+            },
+            "background": {
+              "color": {
+                "value": "{SD.sys.color.primary.on-primary}",
+                "type": "color"
+              }
             }
           },
           "label-text": {
