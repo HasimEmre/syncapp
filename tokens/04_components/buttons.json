@@ -72,7 +72,7 @@
           "outlined": {
             "outline": {
               "color": {
-                "value": "{SD.sys.color.outline.outline}",
+                "value": "{SD.sys.color.outline.outline-variant}",
                 "type": "color"
               }
             },
