@@ -849,6 +849,10 @@
         "roboto": {
           "value": "Roboto",
           "type": "fontFamilies"
+        },
+        "noto-serif-display-extracondensed": {
+          "value": "Noto Serif Display ExtraCondensed",
+          "type": "fontFamilies"
         }
       },
       "fontWeights": {
@@ -857,6 +861,10 @@
           "type": "fontWeights"
         },
         "roboto-2": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "noto-2": {
           "value": "Bold",
           "type": "fontWeights"
         }
