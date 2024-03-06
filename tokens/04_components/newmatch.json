@@ -8,7 +8,7 @@
         },
         "label-text": {
           "font": {
-            "value": "{SD.sys.typescale.label.large}",
+            "value": "{SD.sys.typescale.title.small}",
             "type": "typography"
           }
         },
