@@ -93,8 +93,8 @@
         "title": {
           "x-large": {
             "value": {
-              "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "fontFamily": "{SD.ref.fontfamily.noto-serif-display-extracondensed}",
+              "fontWeight": "{SD.ref.fontWeights.noto-2}",
               "lineHeight": "{SD.ref.lineHeights.28}",
               "fontSize": "{SD.ref.fontSize.22}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
@@ -107,8 +107,8 @@
           },
           "large": {
             "value": {
-              "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "fontFamily": "{SD.ref.fontfamily.noto-serif-display-extracondensed}",
+              "fontWeight": "{SD.ref.fontWeights.noto-2}",
               "lineHeight": "{SD.ref.lineHeights.28}",
               "fontSize": "{SD.ref.fontSize.20}",
               "letterSpacing": "{SD.ref.letterSpacing.1}",
@@ -121,8 +121,8 @@
           },
           "medium": {
             "value": {
-              "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "fontFamily": "{SD.ref.fontfamily.noto-serif-display-extracondensed}",
+              "fontWeight": "{SD.ref.fontWeights.noto-2}",
               "lineHeight": "{SD.ref.lineHeights.24}",
               "fontSize": "{SD.ref.fontSize.16}",
               "letterSpacing": "{SD.ref.letterSpacing.2}",
@@ -135,8 +135,8 @@
           },
           "small": {
             "value": {
-              "fontFamily": "{SD.ref.fontfamily.roboto}",
-              "fontWeight": "{SD.ref.fontWeights.roboto-2}",
+              "fontFamily": "{SD.ref.fontfamily.noto-serif-display-extracondensed}",
+              "fontWeight": "{SD.ref.fontWeights.noto-2}",
               "lineHeight": "{SD.ref.lineHeights.20}",
               "fontSize": "{SD.ref.fontSize.14}",
               "letterSpacing": "{SD.ref.letterSpacing.3}",
